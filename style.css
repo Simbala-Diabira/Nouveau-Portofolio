@@ -995,11 +995,11 @@ footer a i{
     .img-about img{
         width: 300px;
     }
-    .info-about1, .info-about2, .info-about3{
+    /* .info-about1, .info-about2, .info-about3{
         display: none;
-    }
+    } */
     .img-about p{
-        font-size: 1rem;
+        font-size: .8rem;
     }
 }
 
